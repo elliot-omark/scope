@@ -1,8 +1,8 @@
 #BlueJ class context
-comment0.target=square
+comment0.target=Square
 comment0.text=\n\ Implement\ a\ circle\n\ \n\ @author\ Mr.\ Jaffe\ \n\ @version\ 2017-07-14\n
 comment1.params=length\ color
-comment1.target=square(int,\ java.lang.String)
+comment1.target=Square(int,\ java.lang.String)
 comment1.text=\n\ Constructor\ for\ objects\ of\ class\ square\n
 comment2.params=
 comment2.target=double\ getArea()

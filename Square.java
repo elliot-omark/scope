@@ -5,7 +5,7 @@
  * @author Mr. Jaffe 
  * @version 2017-07-14
  */
-public class square implements Shape
+public class Square implements Shape
 {
   private int sidelength;
   private String color;
@@ -13,7 +13,7 @@ public class square implements Shape
   /**
    * Constructor for objects of class square
    */
-  public square(int length, String color)
+  public Square(int length, String color)
   {
     this.sidelength = length;
     this.color = color;
